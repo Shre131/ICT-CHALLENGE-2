@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+ font-family: cursive;
+}
+
+h2{
+    color:cyan;
+    display:flex;
+    justify-content: center;
+  
+}
+
+body{
+    color: white;
+    
+    justify-content: center;
+    align-self: center;
+}
+h3{
+    background-color: red;
+    color:white;
+    width:150;
+    opacity:0.5;
+    display:flex;
+    justify-content: center;
+  
+}
+
+h3:hover{
+    opacity:1;
+    transform:scale(1.2);
+}
+a{
+    text-decoration: none;
+    opacity:0.5;
+}
+
+
+
+p{
+    color:yellow;
+}
+
